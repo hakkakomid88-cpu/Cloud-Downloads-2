@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2802",
+  "folder": "YouTube__watch_20260514074725_733859",
+  "base_name": "True_Nightmare_Roadside_Cafe_JfwAVll643k_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/hakkakomid88-cpu/Cloud-Downloads-2/releases/tag/co-releases-v1-2802",
+  "files": [
+    {
+      "name": "True_Nightmare_Roadside_Cafe_JfwAVll643k_1080p.mp4",
+      "url": "https://github.com/hakkakomid88-cpu/Cloud-Downloads-2/releases/download/co-releases-v1-2802/True_Nightmare_Roadside_Cafe_JfwAVll643k_1080p.mp4",
+      "api_url": "https://api.github.com/repos/hakkakomid88-cpu/Cloud-Downloads-2/releases/assets/419987209",
+      "id": 419987209,
+      "size": 1870099935,
+      "download_count": 0
+    }
+  ]
+}
