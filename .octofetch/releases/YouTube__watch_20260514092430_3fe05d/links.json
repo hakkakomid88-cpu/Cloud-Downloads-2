@@ -1,0 +1,27 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1146",
+  "folder": "YouTube__watch_20260514092430_3fe05d",
+  "base_name": "Megabonk_SEcqhlPrr8E_1080p.mp4",
+  "is_split": true,
+  "part_count": 2,
+  "release_url": "https://github.com/hakkakomid88-cpu/Cloud-Downloads-2/releases/tag/co-releases-v1-1146",
+  "files": [
+    {
+      "name": "Megabonk_SEcqhlPrr8E_1080p.mp4.part00",
+      "url": "https://github.com/hakkakomid88-cpu/Cloud-Downloads-2/releases/download/co-releases-v1-1146/Megabonk_SEcqhlPrr8E_1080p.mp4.part00",
+      "api_url": "https://api.github.com/repos/hakkakomid88-cpu/Cloud-Downloads-2/releases/assets/420042381",
+      "id": 420042381,
+      "size": 1676004563,
+      "download_count": 0
+    },
+    {
+      "name": "Megabonk_SEcqhlPrr8E_1080p.mp4.part01",
+      "url": "https://github.com/hakkakomid88-cpu/Cloud-Downloads-2/releases/download/co-releases-v1-1146/Megabonk_SEcqhlPrr8E_1080p.mp4.part01",
+      "api_url": "https://api.github.com/repos/hakkakomid88-cpu/Cloud-Downloads-2/releases/assets/420042827",
+      "id": 420042827,
+      "size": 1676004563,
+      "download_count": 0
+    }
+  ]
+}
