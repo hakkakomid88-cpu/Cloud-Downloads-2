@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9279",
+  "folder": "YouTube__watch_20260514082818_ff0e61",
+  "base_name": "Knock_on_the_Window_z2q3-xNuOfU_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/hakkakomid88-cpu/Cloud-Downloads-2/releases/tag/co-releases-v1-9279",
+  "files": [
+    {
+      "name": "Knock_on_the_Window_z2q3-xNuOfU_1080p.mp4",
+      "url": "https://github.com/hakkakomid88-cpu/Cloud-Downloads-2/releases/download/co-releases-v1-9279/Knock_on_the_Window_z2q3-xNuOfU_1080p.mp4",
+      "api_url": "https://api.github.com/repos/hakkakomid88-cpu/Cloud-Downloads-2/releases/assets/420008142",
+      "id": 420008142,
+      "size": 903563011,
+      "download_count": 0
+    }
+  ]
+}
