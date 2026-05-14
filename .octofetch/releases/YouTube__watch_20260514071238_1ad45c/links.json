@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9521",
+  "folder": "YouTube__watch_20260514071238_1ad45c",
+  "base_name": "11x_Champs_Rewards_Decide_My_FC26_Team_(Ligue_1)_oVvJpAnPg8w_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/hakkakomid88-cpu/Cloud-Downloads-2/releases/tag/co-releases-v1-9521",
+  "files": [
+    {
+      "name": "11x_Champs_Rewards_Decide_My_FC26_Team_.Ligue_1._oVvJpAnPg8w_1080p.mp4",
+      "url": "https://github.com/hakkakomid88-cpu/Cloud-Downloads-2/releases/download/co-releases-v1-9521/11x_Champs_Rewards_Decide_My_FC26_Team_.Ligue_1._oVvJpAnPg8w_1080p.mp4",
+      "api_url": "https://api.github.com/repos/hakkakomid88-cpu/Cloud-Downloads-2/releases/assets/419966653",
+      "id": 419966653,
+      "size": 279831552,
+      "download_count": 0
+    }
+  ]
+}
