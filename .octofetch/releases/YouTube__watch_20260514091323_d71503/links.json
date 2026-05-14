@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8978",
+  "folder": "YouTube__watch_20260514091323_d71503",
+  "base_name": "Obsessed_Night_Shift_7StIC2e8lP0_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/hakkakomid88-cpu/Cloud-Downloads-2/releases/tag/co-releases-v1-8978",
+  "files": [
+    {
+      "name": "Obsessed_Night_Shift_7StIC2e8lP0_1080p.mp4",
+      "url": "https://github.com/hakkakomid88-cpu/Cloud-Downloads-2/releases/download/co-releases-v1-8978/Obsessed_Night_Shift_7StIC2e8lP0_1080p.mp4",
+      "api_url": "https://api.github.com/repos/hakkakomid88-cpu/Cloud-Downloads-2/releases/assets/420034697",
+      "id": 420034697,
+      "size": 631715878,
+      "download_count": 0
+    }
+  ]
+}
